@@ -69,20 +69,10 @@ Banco de Dados, Redes e Arquitetura de Software na faculdade.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueMatheusNunes&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Minha filosofia
 > "Prefiro entender de verdade a decorar solução."
 
-
-
-
----
 ⭐ Se curtir algum dos meus projetos, deixa uma estrela!  
 🤝 Aberto a trocar ideia, aprender junto e receber feedback
+  
+
