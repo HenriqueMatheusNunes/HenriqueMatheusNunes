@@ -17,10 +17,10 @@ Banco de Dados, Redes e Arquitetura de Software na faculdade.
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/HenriqueMatheusNunes">
+  <a>
     <img src="https://img.shields.io/badge/GitHub-HenriqueMatheusNunes-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/matheus-santos-nunes/">
+  <a>
     <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Nunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
