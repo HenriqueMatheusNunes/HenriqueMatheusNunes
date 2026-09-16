@@ -59,7 +59,7 @@ Banco de Dados, Redes e Arquitetura de Software na faculdade.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ### Conhecimento básico
 
@@ -72,8 +72,7 @@ Banco de Dados, Redes e Arquitetura de Software na faculdade.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueMatheusNunes&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMatheusNunes&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueMatheusNunes&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
