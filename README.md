@@ -10,8 +10,6 @@ construir uma base sólida antes de avançar para projetos mais complexos.
 💡 Curioso por natureza, gosto de entender como as coisas funcionam por trás 
 dos sistemas — foi isso que me trouxe para o desenvolvimento.
 
-📚 Sempre aprendendo algo novo: atualmente também revisando fundamentos de 
-Banco de Dados, Redes e Arquitetura de Software na faculdade.
 ---
 
 ## 🌐 Onde me encontrar
