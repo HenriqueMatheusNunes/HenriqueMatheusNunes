@@ -72,7 +72,7 @@ Banco de Dados, Redes e Arquitetura de Software na faculdade.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueMatheusNunes&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueMatheusNunes&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
